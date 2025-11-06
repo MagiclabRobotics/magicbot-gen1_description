@@ -62,161 +62,157 @@ Visualization Manager:
         Expand Joint Details: false
         Expand Link Details: false
         Expand Tree: false
-        LINK_ANKLE_PITCH_L:
+        left_ankle_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_ANKLE_PITCH_R:
+        right_ankle_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_ANKLE_ROLL_L:
+        left_ankle_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_ANKLE_ROLL_R:
+        right_ankle_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_HIP_PITCH_L:
+        left_hip_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_HIP_PITCH_R:
+        right_hip_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_HIP_ROLL_L:
+        left_hip_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_HIP_ROLL_R:
+        right_hip_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_HIP_YAW_L:
+        left_hip_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_HIP_YAW_R:
+        right_hip_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_KNEE_PITCH_L:
+        left_knee_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        LINK_KNEE_PITCH_R:
+        right_knee_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
         Link Tree Style: Links in Alphabetic Order
-        camera:
+        link_head_rgbd:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        link_hp:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        link_hy:
+        head_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_la1:
+        head_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_la2:
+        left_shoulder_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_la3:
+        left_shoulder_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_la4:
+        left_shoulder_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_la5:
+        left_elbow_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_la6:
+        left_wrist_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_la7:
+        left_wrist_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_ra1:
+        left_wrist_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_ra2:
+        right_shoulder_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_ra3:
+        right_shoulder_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_ra4:
+        right_shoulder_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_ra5:
+        right_elbow_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_ra6:
+        right_wrist_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_ra7:
+        right_wrist_roll_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_tcp_r:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-        link_wr:
+        right_wrist_pitch_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
           Value: true
-        link_wy:
+        waist_roll_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        waist_yaw_link:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -236,69 +232,67 @@ Visualization Manager:
       Frame Timeout: 15
       Frames:
         All Enabled: false
-        LINK_ANKLE_PITCH_L:
+        left_ankle_pitch_link:
           Value: false
-        LINK_ANKLE_PITCH_R:
+        right_ankle_pitch_link:
           Value: false
-        LINK_ANKLE_ROLL_L:
+        left_ankle_roll_link:
           Value: false
-        LINK_ANKLE_ROLL_R:
+        right_ankle_roll_link:
           Value: false
-        LINK_HIP_PITCH_L:
+        left_hip_pitch_link:
           Value: false
-        LINK_HIP_PITCH_R:
+        right_hip_pitch_link:
           Value: false
-        LINK_HIP_ROLL_L:
+        left_hip_roll_link:
           Value: false
-        LINK_HIP_ROLL_R:
+        right_hip_roll_link:
           Value: false
-        LINK_HIP_YAW_L:
+        left_hip_yaw_link:
           Value: false
-        LINK_HIP_YAW_R:
+        right_hip_yaw_link:
           Value: false
-        LINK_KNEE_PITCH_L:
+        left_knee_pitch_link:
           Value: false
-        LINK_KNEE_PITCH_R:
+        right_knee_pitch_link:
           Value: false
-        camera:
+        link_head_rgbd:
           Value: true
-        link_hp:
+        head_pitch_link:
           Value: true
-        link_hy:
+        head_yaw_link:
           Value: false
-        link_la1:
+        left_shoulder_pitch_link:
           Value: false
-        link_la2:
+        left_shoulder_roll_link:
           Value: false
-        link_la3:
+        left_shoulder_yaw_link:
           Value: false
-        link_la4:
+        left_elbow_roll_link:
           Value: false
-        link_la5:
+        left_wrist_yaw_link:
           Value: false
-        link_la6:
+        left_wrist_roll_link:
           Value: false
-        link_la7:
+        left_wrist_pitch_link:
           Value: false
-        link_ra1:
+        right_shoulder_pitch_link:
           Value: false
-        link_ra2:
+        right_shoulder_roll_link:
           Value: false
-        link_ra3:
+        right_shoulder_yaw_link:
           Value: false
-        link_ra4:
+        right_elbow_roll_link:
           Value: false
-        link_ra5:
+        right_wrist_yaw_link:
           Value: false
-        link_ra6:
+        right_wrist_roll_link:
           Value: false
-        link_ra7:
+        right_wrist_pitch_link:
           Value: false
-        link_tcp_r:
-          Value: true
-        link_wr:
+        waist_roll_link:
           Value: false
-        link_wy:
+        waist_yaw_link:
           Value: false
         pelvis:
           Value: true
@@ -309,43 +303,42 @@ Visualization Manager:
       Show Names: false
       Tree:
         pelvis:
-          LINK_HIP_ROLL_L:
-            LINK_HIP_YAW_L:
-              LINK_HIP_PITCH_L:
-                LINK_KNEE_PITCH_L:
-                  LINK_ANKLE_PITCH_L:
-                    LINK_ANKLE_ROLL_L:
+          left_hip_roll_link:
+            left_hip_yaw_link:
+              left_hip_pitch_link:
+                left_knee_pitch_link:
+                  left_ankle_pitch_link:
+                    left_ankle_roll_link:
                       {}
-          LINK_HIP_ROLL_R:
-            LINK_HIP_YAW_R:
-              LINK_HIP_PITCH_R:
-                LINK_KNEE_PITCH_R:
-                  LINK_ANKLE_PITCH_R:
-                    LINK_ANKLE_ROLL_R:
+          right_hip_roll_link:
+            right_hip_yaw_link:
+              right_hip_pitch_link:
+                right_knee_pitch_link:
+                  right_ankle_pitch_link:
+                    right_ankle_roll_link:
                       {}
-          link_wr:
-            link_wy:
-              link_hy:
-                link_hp:
-                  camera:
+          waist_roll_link:
+            waist_yaw_link:
+              head_yaw_link:
+                head_pitch_link:
+                  link_head_rgbd:
                     {}
-              link_la1:
-                link_la2:
-                  link_la3:
-                    link_la4:
-                      link_la5:
-                        link_la6:
-                          link_la7:
+              left_shoulder_pitch_link:
+                left_shoulder_roll_link:
+                  left_shoulder_yaw_link:
+                    left_elbow_roll_link:
+                      left_wrist_yaw_link:
+                        left_wrist_roll_link:
+                          left_wrist_pitch_link:
                             {}
-              link_ra1:
-                link_ra2:
-                  link_ra3:
-                    link_ra4:
-                      link_ra5:
-                        link_ra6:
-                          link_ra7:
-                            link_tcp_r:
-                              {}
+              right_shoulder_pitch_link:
+                right_shoulder_roll_link:
+                  right_shoulder_yaw_link:
+                    right_elbow_roll_link:
+                      right_wrist_yaw_link:
+                        right_wrist_roll_link:
+                          right_wrist_pitch_link:
+                            {}
       Update Interval: 0
       Value: true
   Enabled: true

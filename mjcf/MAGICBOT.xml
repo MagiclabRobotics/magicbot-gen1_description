@@ -271,8 +271,8 @@
     <motor name="right_ankle_pitch_actuator" joint="right_ankle_pitch_joint"/>
     <motor name="right_ankle_roll_actuator" joint="right_ankle_roll_joint"/>
 
-    <motor name="wrist_roll_actuator" joint="waist_roll_joint"/>
-    <motor name="wrist_yaw_actuator" joint="waist_yaw_joint"/>
+    <motor name="waist_roll_actuator" joint="waist_roll_joint"/>
+    <motor name="waist_yaw_actuator" joint="waist_yaw_joint"/>
 
     <motor name="head_yaw_actuator" joint="head_yaw_joint"/>
     <motor name="head_pitch_actuator" joint="head_pitch_joint"/>
